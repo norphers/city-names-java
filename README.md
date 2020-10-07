@@ -1,2 +1,2 @@
-# city-names
+# java-city-names
 Java Basics. Practicing variables, loops and arrays.
